@@ -1,3 +1,7 @@
+
+12/20/2023 - As of today, Wednesday, still working on error message: "Not Found
+The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again." 
+
 These are the instructions provided to me for w16d2 after class exercise Building a RESTful API for Task Management
 
 Estimated completion time: 75 minutes
